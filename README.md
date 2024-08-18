@@ -32,5 +32,6 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto en tu máqui
 
 Uso
 Para iniciar el proyecto en modo de desarrollo, ejecuta el siguiente comando:
-    ```bash
+    
+   ```bash
     npm start
