@@ -23,7 +23,7 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto en tu máqui
 2. **Ir a la carpeta del repositorio**
 
    ```bash
-    cd nombre-del-proyecto
+    cd battle-pokemon-front
 
 3. **Instalar dependencias**
 
